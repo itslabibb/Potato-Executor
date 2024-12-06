@@ -26,3 +26,5 @@ Potato Executor is an open-source Roblox executor designed to provide smooth exe
 3. Paste your script into the built-in editor or load it from a `.txt` file.  
 4. Press `Execute` to run your script.  
 5. Enjoy the enhanced Roblox experience!  
+
+![image](https://github.com/user-attachments/assets/a798f057-4077-4e4b-8628-bbd99c33c4db)
