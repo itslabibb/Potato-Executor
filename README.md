@@ -22,7 +22,7 @@ Potato Executor is an open-source Roblox executor designed to provide smooth exe
 
 ## **📝 How to Use**
 1. Open **Potato Executor**.  
-2. Click the `Inject` button to establish a connection with Roblox.  
+2. Click the `Attach` button to establish a connection with Roblox.  
 3. Paste your script into the built-in editor or load it from a `.txt` file.  
 4. Press `Execute` to run your script.  
 5. Enjoy the enhanced Roblox experience!  
