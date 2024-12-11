@@ -15,7 +15,7 @@ Potato Executor is an open-source Roblox executor designed to provide smooth exe
 ## **🔧 Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/PotatoExecutor.git
+   git clone https://github.com/itslabibb/PotatoExecutor.git
    ```
 2. Open the project in Visual Studio 2022 (or later).  
 3. Build the project and run `Potato Executor`.
